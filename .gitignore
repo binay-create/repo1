@@ -1,0 +1,3 @@
+# Ignore files that start with "file" followed by any number
+file[0-9]*
+
